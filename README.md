@@ -1,16 +1,8 @@
-# AI Agent Tools
+﻿# AI Tools List
 
-A single, growing repository that catalogs AI agent tools — both the ones that exist today and the new ones showing up all the time. The goal is to have one place to look instead of hunting across blogs, tweets, and launch pages every time a new agent framework or tool drops.
-
-Each entry briefly describes what the tool is and what it does, so you can scan the list and decide what's worth digging into further.
-
-## What counts as an "AI agent tool"?
-
-Anything that helps build, run, or extend AI agents — frameworks, orchestration layers, memory/vector stores, browser/computer-use tools, coding agents, multi-agent platforms, prompt/agent evaluation tools, and similar.
+A growing catalog of AI tools organized by category. Each entry has its own file with a description, key features, and a link.
 
 ## Tool List
-
-Tools are organized into category folders. Each tool has its own file with a description, key features, and a link.
 
 ### 🤖 [Autonomous Agents](autonomous-agents/)
 Agents that take ownership of a task or workflow end-to-end, not just assist with it.
@@ -34,6 +26,39 @@ Tools for generating visual assets rather than code components.
 | Tool | Description |
 |------|-------------|
 | [Haikei](design-asset-generators/haikei.md) | Generates unique SVG design assets — waves, blobs, gradients, and more |
+
+### 🎬 [AI Video Tools](ai-video-tools/)
+AI tools for generating, editing, and producing video.
+
+| Tool | Description |
+|------|-------------|
+| [Descript](ai-video-tools/descript.md) | AI video and podcast editor with transcript-based editing, recording, captions, and audio cleanup |
+| [InVideo](ai-video-tools/invideo.md) | Prompt and script to video platform that assembles scenes, visuals, narration, music, and edits |
+| [Kling AI](ai-video-tools/kling-ai.md) | Generates and edits video and images from text or references, with motion and audio controls |
+| [Luma AI](ai-video-tools/luma-ai.md) | Dream Machine creates and edits images and videos from prompts and visual references |
+| [Pika](ai-video-tools/pika.md) | AI creative platform for generating and editing video, images, and audio |
+| [Runway](ai-video-tools/runway.md) | Generative video workspace for text, image, and video creation plus AI editing tools |
+
+### ✨ [AI Creative Tools](ai-creative-tools/)
+AI workspaces for research, image and video creation, editing, and related creative workflows.
+
+| Tool | Description |
+|------|-------------|
+| [Krea](ai-creative-tools/krea.md) | Creative suite for generating and editing images, video, and 3D assets, with real-time tools and upscaling |
+| [OpenArt](ai-creative-tools/openart.md) | AI media creation workspace for images, video, audio, characters, and story production |
+| [YouMind](ai-creative-tools/youmind.md) | Learning and creative workspace that turns saved research and ideas into writing, slides, images, video, and webpages |
+
+### 📊 [AI Presentation Tools](ai-presentation-tools/)
+Tools for generating, designing, and collaborating on AI assisted presentations.
+
+| Tool | Description |
+|------|-------------|
+| [Beautiful.ai](ai-presentation-tools/beautiful-ai.md) | Presentation platform with AI guided outlines and automatically adapting slide layouts |
+| [Pitch](ai-presentation-tools/pitch.md) | Collaborative presentation workspace with AI tools, templates, and sharing features |
+| [Plus AI](ai-presentation-tools/plus-ai.md) | AI presentation add-on for creating and editing decks in Google Slides and PowerPoint |
+| [PopAi](ai-presentation-tools/popai.md) | AI presentation maker for generating and refining slide decks from prompts and source material |
+| [Slidesgo](ai-presentation-tools/slidesgo.md) | AI presentation maker that creates styled decks and exports to PowerPoint or Google Slides |
+| [Tome AI](ai-presentation-tools/tome-ai.md) | AI presentation and document conversion service at tomeapp.ai, including editable PPTX export |
 
 ## How this repo works
 
