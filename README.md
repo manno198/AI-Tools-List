@@ -11,6 +11,7 @@ Agents that take ownership of a task or workflow end-to-end, not just assist wit
 |------|-------------|
 | [Vibiz](autonomous-agents/vibiz.md) | AI agent that autonomously runs an entire marketing operation — strategy, landing pages, ads, campaigns |
 | [Manus](autonomous-agents/manus.md) | General-purpose autonomous AI agent that plans and executes complex, multi-step tasks end-to-end |
+| [agent-qa](autonomous-agents/agent-qa.md) | Web and mobile QA agent with memidex persistent memory, validated self-improvement, and reviewable test evidence |
 
 ### 🎨 [UI Component Libraries](ui-component-libraries/)
 Ready-made, code-based UI components for building interfaces.
